@@ -61,7 +61,7 @@ The easiest way to deploy your Dagster project is to use Dagster Cloud.
 
 Check out the [Dagster Cloud Documentation](https://docs.dagster.cloud) to learn more.
 
-#NOTE- Don't forget to import, install necessary packages 
+## NOTE- Don't forget to import, install necessary packages 
 ```bash
 pip install package_name
 ```
