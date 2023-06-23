@@ -8,7 +8,7 @@ First, install your Dagster code location as a Python package.["To install Pytho
 
 Clone this repository to the directory where you setup your python virtual environment.
 
-[Activate youe virtual environment]
+[Activate your virtual environment]
 ```bash
 source path/to/venv/bin/activate
 ```
@@ -60,3 +60,8 @@ Once your Dagster Daemon is running, you can start turning on schedules and sens
 The easiest way to deploy your Dagster project is to use Dagster Cloud.
 
 Check out the [Dagster Cloud Documentation](https://docs.dagster.cloud) to learn more.
+
+#NOTE- Don't forget to import, install necessary packages 
+```bash
+pip install package_name
+```
