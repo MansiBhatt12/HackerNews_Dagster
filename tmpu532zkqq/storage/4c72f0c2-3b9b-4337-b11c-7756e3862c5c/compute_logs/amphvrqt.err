@@ -1,0 +1,8 @@
+[32m2023-06-23 02:01:20 +0530[0m - dagster - [34mDEBUG[0m - hackernews_job - 4c72f0c2-3b9b-4337-b11c-7756e3862c5c - 130805 - LOGS_CAPTURED - Started capturing logs in process (pid: 130805).
+[32m2023-06-23 02:01:20 +0530[0m - dagster - [34mDEBUG[0m - hackernews_job - 4c72f0c2-3b9b-4337-b11c-7756e3862c5c - 130805 - topstories - STEP_START - Started execution of step "topstories".
+[32m2023-06-23 02:01:20 +0530[0m - dagster - [34mDEBUG[0m - hackernews_job - 4c72f0c2-3b9b-4337-b11c-7756e3862c5c - topstories - Loading file from: data/topstory_ids
+[32m2023-06-23 02:01:20 +0530[0m - dagster - [34mDEBUG[0m - hackernews_job - 4c72f0c2-3b9b-4337-b11c-7756e3862c5c - 130805 - topstories - ASSET_OBSERVATION - DagsterEventType.ASSET_OBSERVATION for step topstories
+[32m2023-06-23 02:01:20 +0530[0m - dagster - [34mDEBUG[0m - hackernews_job - 4c72f0c2-3b9b-4337-b11c-7756e3862c5c - 130805 - topstories - LOADED_INPUT - Loaded input "topstory_ids" using input manager "io_manager", from output "result" of step "topstory_ids"
+[32m2023-06-23 02:01:20 +0530[0m - dagster - [34mDEBUG[0m - hackernews_job - 4c72f0c2-3b9b-4337-b11c-7756e3862c5c - 130805 - topstories - STEP_INPUT - Got input "topstory_ids" of type "Any". (Type check passed).
+[32m2023-06-23 02:01:33 +0530[0m - dagster - [34mINFO[0m - hackernews_job - 4c72f0c2-3b9b-4337-b11c-7756e3862c5c - topstories - Got 20 items so far.
+[32m2023-06-23 02:01:46 +0530[0m - dagster - [34mINFO[0m - hackernews_job - 4c72f0c2-3b9b-4337-b11c-7756e3862c5c - topstories - Got 40 items so far.

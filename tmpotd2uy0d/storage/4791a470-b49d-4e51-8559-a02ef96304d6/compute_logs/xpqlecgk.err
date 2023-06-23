@@ -1,0 +1,7 @@
+[32m2023-06-22 16:19:49 +0530[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - 4791a470-b49d-4e51-8559-a02ef96304d6 - 114924 - LOGS_CAPTURED - Started capturing logs in process (pid: 114924).
+[32m2023-06-22 16:19:49 +0530[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - 4791a470-b49d-4e51-8559-a02ef96304d6 - 114924 - topstory_ids - STEP_START - Started execution of step "topstory_ids".
+[32m2023-06-22 16:19:50 +0530[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - 4791a470-b49d-4e51-8559-a02ef96304d6 - 114924 - topstory_ids - STEP_OUTPUT - Yielded output "result" of type "Any". (Type check passed).
+[32m2023-06-22 16:19:50 +0530[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - 4791a470-b49d-4e51-8559-a02ef96304d6 - topstory_ids - Writing file at: /home/mansi-bhatt/dagster/tutorial-project/tmpotd2uy0d/storage/topstory_ids
+[32m2023-06-22 16:19:50 +0530[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - 4791a470-b49d-4e51-8559-a02ef96304d6 - 114924 - topstory_ids - ASSET_MATERIALIZATION - Materialized value topstory_ids.
+[32m2023-06-22 16:19:50 +0530[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - 4791a470-b49d-4e51-8559-a02ef96304d6 - 114924 - topstory_ids - HANDLED_OUTPUT - Handled output "result" using IO manager "io_manager"
+[32m2023-06-22 16:19:50 +0530[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - 4791a470-b49d-4e51-8559-a02ef96304d6 - 114924 - topstory_ids - STEP_SUCCESS - Finished execution of step "topstory_ids" in 742ms.
