@@ -1,10 +1,24 @@
-# tutorial_project
+# Dagster_tutorial_project
 
-This is a [Dagster](https://dagster.io/) project scaffolded with [`dagster project scaffold`](https://docs.dagster.io/getting-started/create-new-project).
+This is a [Dagster](https://dagster.io/) project scaffolded with [`dagster project scaffold`](https://docs.dagster.io/tutorial).
 
 ## Getting started
 
-First, install your Dagster code location as a Python package. By using the --editable flag, pip will install your Python package in ["editable mode"](https://pip.pypa.io/en/latest/topics/local-project-installs/#editable-installs) so that as you develop, local code changes will automatically apply.
+First, install your Dagster code location as a Python package. By using the --editable flag, pip will install your Python package in ["To install Python, pip and create virtual environment."](https://packaging.python.org/en/latest/guides/installing-using-pip-and-virtual-environments/) so that as you develop, local code changes will automatically apply.
+
+Clone this repository to the directory where you setup your python virtual environment.
+
+[Activate youe virtual environment]
+```bash
+source path/to/venv/bin/activate
+```
+
+Navigate to the directory- tutorial-project
+
+[To install Dagster and Dagit]
+```bash
+pip install dagster dagit
+```
 
 ```bash
 pip install -e ".[dev]"
