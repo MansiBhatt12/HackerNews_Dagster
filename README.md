@@ -34,7 +34,7 @@ Open http://localhost:3000 with your browser to see the project.
 
 You can start writing assets in `tutorial_project/assets.py`. The assets are automatically loaded into the Dagster code location as you define them.
 
-## NOTE- 
+## Note 
 Don't forget to import, install necessary packages 
 
 ```bash
