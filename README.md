@@ -34,6 +34,13 @@ Open http://localhost:3000 with your browser to see the project.
 
 You can start writing assets in `tutorial_project/assets.py`. The assets are automatically loaded into the Dagster code location as you define them.
 
+## NOTE- 
+Don't forget to import, install necessary packages 
+
+```bash
+pip install package_name
+```
+
 ## Development
 
 
@@ -60,8 +67,3 @@ Once your Dagster Daemon is running, you can start turning on schedules and sens
 The easiest way to deploy your Dagster project is to use Dagster Cloud.
 
 Check out the [Dagster Cloud Documentation](https://docs.dagster.cloud) to learn more.
-
-## NOTE- Don't forget to import, install necessary packages 
-```bash
-pip install package_name
-```
